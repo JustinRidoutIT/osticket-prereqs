@@ -33,10 +33,6 @@ Preparing our Virtual Machine to install and use osTicket was a lengthy process.
 The first step is to install Internet Information Services (IIS) in Windows. Go to the Start menu and type in "Control Panel" in the search bar and open it. Click "Uninstall a program" and check Internet Information Services. 
 </br>
 
-<p>
-<img src="https://i.imgur.com/Gmqtcfp.png" height="80%" width="80%" alt="4."/>
-</p>
-
 <h3>Step 2: Install Web Platform Installer</h3> 
 Next is to install Web Platform Installer. 
 
